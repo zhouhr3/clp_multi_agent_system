@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>唇腭裂多智能体系统</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Microsoft YaHei', sans-serif;
+            color: #333;
+            line-height: 1.6;
+        }
+        .hero {
+            background-color: #f8f9fa;
+            padding: 4rem 0;
+            margin-bottom: 2rem;
+        }
+        .feature-icon {
+            font-size: 2.5rem;
+            color: #0d6efd;
+            margin-bottom: 1rem;
+        }
+        .section {
+            padding: 3rem 0;
+        }
+        .footer {
+            background-color: #343a40;
+            color: white;
+            padding: 2rem 0;
+            margin-top: 2rem;
+        }
+        .nav-link {
+            color: #495057;
+        }
+        .nav-link:hover {
+            color: #0d6efd;
+        }
+        .card {
+            transition: transform 0.3s;
+            margin-bottom: 1.5rem;
+        }
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+<body>
+    <!-- 导航栏 -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top">
+        <div class="container">
+            <a class="navbar-brand" href="#">唇腭裂多智能体系统</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#home">首页</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#features">功能特点</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#architecture">系统架构</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#agents">智能体介绍</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#docs">文档</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#contact">联系我们</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- 首页 -->
+    <section class="hero" id="home">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <h1 class="display-4 fw-bold mb-4">唇腭裂多智能体系统</h1>
+                    <p class="lead mb-4">基于人工智能的医疗辅助决策系统，专门用于唇腭裂患者的诊断和治疗建议。</p>
+                    <p class="mb-4">系统采用多智能体架构，集成了多个专科智能体，能够根据患者症状和特征，动态招募相关专科智能体，提供综合的诊断和治疗建议。</p>
+                    <div class="d-grid gap-2 d-md-flex justify-content-md-start">
+                        <a href="#demo" class="btn btn-primary btn-lg px-4 me-md-2">系统演示</a>
+                        <a href="#docs" class="btn btn-outline-secondary btn-lg px-4">查看文档</a>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <img src="images/hero-image.png" alt="唇腭裂多智能体系统" class="img-fluid rounded shadow">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 功能特点 -->
+    <section class="section" id="features">
+        <div class="container">
+            <h2 class="text-center mb-5">功能特点</h2>
+            <div class="row g-4">
+                <div class="col-md-4">
+                    <div class="card h-100 border-0 shadow-sm">
+                        <div class="card-body text-center">
+                            <div class="feature-icon">
+                                <i class="bi bi-search"></i>
+                            </div>
+                            <h3 class="card-title h5">综合征识别</h3>
+                            <p class="card-text">能够区分综合征性和非综合征性唇腭裂，提供精准诊断。</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card h-100 border-0 shadow-sm">
+                        <div class="card-body text-center">
+                            <div class="feature-icon">
+                                <i class="bi bi-people"></i>
+                            </div>
+                            <h3 class="card-title h5">多专科协作</h3>
+                            <p class="card-text">集成唇腭裂专科、颅面外科、遗传学、外耳科和眼科等多个专科智能体。</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card h-100 border-0 shadow-sm">
+                        <div class="card-body text-center">
+                            <div class="feature-icon">
+                                <i class="bi bi-clipboard2-pulse"></i>
+                            </div>
+                            <h3 class="card-title h5">个性化治疗建议</h3>
+                            <p class="card-text">根据患者具体情况提供个性化的治疗方案，包括手术时机和方法。</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card h-100 border-0 shadow-sm">
+                        <div class="card-body text-center">
+                            <div class="feature-icon">
+                                <i class="bi bi-book"></i>
+                            </div>
+                            <h3 class="card-title h5">医学知识集成</h3>
+                            <p class="card-text">集成最新医学知识库和文献资源，提供循证医学支持。</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card h-100 border-0 shadow-sm">
+                        <div class="card-body text-center">
+                            <div class="feature-icon">
+                                <i class="bi bi-window"></i>
+                            </div>
+                            <h3 class="card-title h5">用户友好界面</h3>
+                            <p class="card-text">提供简洁直观的Web界面，便于医生和研究人员使用。</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card h-100 border-0 shadow-sm">
+                        <div class="card-body text-center">
+                            <div class="feature-icon">
+                                <i class="bi bi-journal-text"></i>
+                            </div>
+                            <h3 class="card-title h5">文献搜索</h3>
+                            <p class="card-text">支持医学文献搜索，帮助医生获取最新研究成果。</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 系统架构 -->
+    <section class="section bg-light" id="architecture">
+        <div class="container">
+            <h2 class="text-center mb-5">系统架构</h2>
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <img src="images/architecture.png" alt="系统架构图" class="img-fluid rounded shadow">
+                </div>
+                <div class="col-lg-6">
+                    <h3 class="mb-4">分层架构设计</h3>
+                    <div class="mb-4">
+                        <h4 class="h5">核心层</h4>
+                        <p>包含Agent基类、AgentManager、KnowledgeBase和APIIntegration等基础组件。</p>
+                    </div>
+                    <div class="mb-4">
+                        <h4 class="h5">智能体层</h4>
+                        <p>包含各个专科智能体，如唇腭裂专科智能体、颅面外科智能体、遗传学智能体等。</p>
+                    </div>
+                    <div class="mb-4">
+                        <h4 class="h5">应用层</h4>
+                        <p>包含CLPAgentSystem和用户界面，提供统一的系统接口和交互方式。</p>
+                    </div>
+                    <a href="docs/architecture.html" class="btn btn-primary">查看详细架构文档</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 智能体介绍 -->
+    <section class="section" id="agents">
+        <div class="container">
+            <h2 class="text-center mb-5">智能体介绍</h2>
+            <div class="row">
+                <div class="col-md-6 mb-4">
+                    <div class="card h-100 border-0 shadow-sm">
+                        <div class="card-body">
+                            <h3 class="card-title h4">唇腭裂专科智能体</h3>
+                            <p class="card-text">专注于唇腭裂的分类、诊断和治疗方案制定，尤其擅长非综合征性唇腭裂的处理。</p>
+                            <h4 class="h6">主要功能：</h4>
+                            <ul>
+                                <li>唇腭裂分类（单侧/双侧，完全/不完全）</li>
+                                <li>严重程度评估</li>
+                                <li>治疗方案建议</li>
+                                <li>术后护理和语言康复建议</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 mb-4">
+                    <div class="card h-100 border-0 shadow-sm">
+                        <div class="card-body">
+                            <h3 class="card-title h4">颅面外科智能体</h3>
+                            <p class="card-text">专注于与唇腭裂相关的颅面畸形分析、诊断和治疗方案制定，尤其擅长综合征性唇腭裂的颅面问题处理。</p>
+                            <h4 class="h6">主要功能：</h4>
+                            <ul>
+                                <li>颅面畸形的详细分析和分类</li>
+                                <li>与可能综合征的关联性分析</li>
+                                <li>手术时机和方法建议</li>
+                                <li>多学科协作建议</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 mb-4">
+                    <div class="card h-100 border-0 shadow-sm">
+                        <div class="card-body">
+                            <h3 class="card-title h4">遗传学智能体</h3>
+                            <p class="card-text">专注于与唇腭裂相关的遗传异常分析、遗传检测建议和遗传咨询，尤其擅长综合征性唇腭裂的遗传学评估。</p>
+                            <h4 class="h6">主要功能：</h4>
+                            <ul>
+                                <li>可能的遗传异常分析</li>
+                                <li>推荐的遗传检测方法</li>
+                                <li>遗传模式和家族风险评估</li>
+                                <li>遗传咨询建议</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 mb-4">
+                    <div class="card h-100 border-0 shadow-sm">
+                        <div class="card-body">
+                            <h3 class="card-title h4">外耳智能体</h3>
+                            <p class="card-text">专注于与唇腭裂相关的耳部异常分析、诊断和治疗方案制定，尤其擅长综合征性唇腭裂的耳部问题处理。</p>
+                            <h4 class="h6">主要功能：</h4>
+                            <ul>
+                                <li>耳部异常的详细分析和分类</li>
+                                <li>听力问题评估</li>
+                                <li>治疗方案建议</li>
+                                <li>听力康复计划</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 mb-4">
+                    <div class="card h-100 border-0 shadow-sm">
+                        <div class="card-body">
+                            <h3 class="card-title h4">眼科智能体</h3>
+                            <p class="card-text">专注于与唇腭裂相关的眼部异常分析、诊断和治疗方案制定，尤其擅长综合征性唇腭裂的眼部问题处理。</p>
+                            <h4 class="h6">主要功能：</h4>
+                            <ul>
+                                <li>眼部异常的详细分析和分类</li>
+                                <li>视力问题评估</li>
+                                <li>治疗方案建议</li>
+                                <li>视力保护和康复计划</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 系统演示 -->
+    <section class="section bg-light" id="demo">
+        <div class="container">
+            <h2 class="text-center mb-5">系统演示</h2>
+            <div class="row justify-content-center">
+                <div class="col-lg-10">
+                    <div class="card border-0 shadow">
+                        <div class="card-body p-0">
+                            <div class="ratio ratio-16x9">
+                                <iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="系统演示视频" allowfullscreen></iframe>
+                            </div>
+                        </div>
+                        <div class="card-footer bg-white text-center">
+                            <a href="#" class="btn btn-primary">在线体验系统</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 文档 -->
+    <section class="section" id="docs">
+        <div class="container">
+            <h2 class="text-center mb-5">文档</h2>
+            <div class="row">
+                <div class="col-md-4 mb-4">
+                    <div class="card h-100 border-0 shadow-sm">
+                        <div class="card-body text-center">
+                            <img src="images/architecture-doc.png" alt="系统架构文档" class="img-fluid mb-3" style="max-height: 150px;">
+                            <h3 class="card-title h5">系统架构文档</h3>
+                            <p class="card-text">详细描述系统的整体架构、各组件功能、数据流和技术栈等内容。</p>
+                            <a href="docs/architecture.html" class="btn btn-outline-primary">查看文档</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-4">
+                    <div class="card h-100 border-0 shadow-sm">
+                        <div class="card-body text-center">
+                            <img src="images/developer-doc.png" alt="开发者文档" class="img-fluid mb-3" style="max-height: 150px;">
+                            <h3 class="card-title h5">开发者文档</h3>
+                            <p class="card-text">提供详细的开发指南，包括环境设置、代码结构、API参考和扩展指南等。</p>
+                            <a href="docs/developer_guide.html" class="btn btn-outline-primary">查看文档</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-4">
+                    <div class="card h-100 border-0 shadow-sm">
+                        <div class="card-body text-center">
+                            <img src="images/user-doc.png" alt="用户手册" class="img-fluid mb-3" style="max-height: 150px;">
+                            <h3 class="card-title h5">用户手册</h3>
+                            <p class="card-text">详细介绍系统的使用方法、功能特点和最佳实践，帮助用户快速上手。</p>
+                            <a href="docs/user_manual.html" class="btn btn-outline-primary">查看文档</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 联系我们 -->
+    <section class="section bg-light" id="contact">
+        <div class="container">
+            <h2 class="text-center mb-5">联系我们</h2>
+            <div class="row justify-content-center">
+                <div class="col-lg-8">
+                    <div class="card border-0 shadow">
+                        <div class="card-body p-5">
+                            <form>
+                                <div class="mb-3">
+                                    <label for="name" class="form-label">姓名</label>
+                                    <input type="text" class="form-control" id="name" placeholder="请输入您的姓名">
+                                </div>
+                                <div class="mb-3">
+                                    <label for="email" class="form-label">邮箱</label>
+                                    <input type="email" class="form-<response clipped><NOTE>To save on context only part of this file has been shown to you. You should retry this tool after you have searched inside the file with `grep -n` in order to find the line numbers of what you are looking for.</NOTE>

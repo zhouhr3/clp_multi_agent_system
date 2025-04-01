@@ -1,0 +1,332 @@
+[
+    {
+        "case_id": "PMID_39707539_Case1",
+        "age": "4 years",
+        "gender": "Female",
+        "clinical_features": [
+            "cleft palate",
+            "Pierre-Robin sequence",
+            "microcephaly",
+            "epilepsy",
+            "coagulopathy",
+            "hearing disorders"
+        ],
+        "diagnosis": "Ring 18 chromosome "
+    },
+    {
+        "case_id": "PMID_38553307_Case2",
+        "clinical_features": [
+            "cleft lip and/or palate",
+            "tooth abnormalities",
+            "infectious or immunologic diseases",
+            "intellectual disability"
+        ],
+        "diagnosis": "Kabuki syndrome "
+    },
+    {
+        "case_id": "PMID_38091702_Case3",
+        "age": "newborn",
+        "gender": "Female",
+        "clinical_features": [
+            "congenital nasal septal lipoma",
+            "lipoma of the corpus callosum",
+            "multiple ventricular septal defect",
+            "additional minor facial dysmorphism"
+        ],
+        "diagnosis": "Pai syndrome "
+    },
+    {
+        "case_id": "PMID_36624583_Case4",
+        "age": "4 years",
+        "gender": "Male",
+        "clinical_features": [
+            "bilateral cleft lip and palate",
+            "microcephaly",
+            "clenched toes",
+            "cafe-au-lait spots",
+            "a history of epilepsy",
+            "severe intellectual disability"
+        ],
+        "diagnosis": "Ring Chromosome 7 Syndrome "
+    },
+    {
+        "case_id": "PMID_38779256_Case5",
+        "age": "47 days",
+        "gender": "Female",
+        "clinical_features": [
+            "complete bilateral cleft lip and palate",
+            "congenital depression on the forehead of the skull",
+            "polydactyly of hands and feet",
+            "camptodactyly of hands and feet",
+            "incomplete formation of the pelvic region",
+            "Club foot",
+            "triphalangeal thumb"
+        ],
+        "diagnosis": "Oral-facial-Digital Syndrome "
+    },
+    {
+        "case_id": "PMID_37095590_Case6",
+        "age": "9 years",
+        "gender": "Female",
+        "clinical_features": [
+            "facial asymmetry",
+            "frontal bossing",
+            "nasal alar cartilage hypoplasia with flattening of the nasal tip",
+            "broad nasal root",
+            "a partial cleft palate",
+            "multiple frenula bridging the buccal mucosa to alveolar ridges both upper and lower",
+            "V-shaped maxillary arch",
+            "excessively pronounced overjet",
+            "hypoplasia of mandible"
+        ],
+        "diagnosis": "ectrodactyly-ectodermal dysplasia-cleft lip/palate syndrome "
+    },
+    {
+        "case_id": "PMID_37619988_Case7",
+        "age": "newborn",
+        "clinical_features": [
+            "posterior neck edema",
+            "micrognathia",
+            "low-set and small ears",
+            "auricular hypoplasia",
+            "cleft lip and palate",
+            "short extremities",
+            "a combination of rarely occurring pre- and postaxial polydactyly"
+        ],
+        "diagnosis": "Sirenomelia or mermaid syndrome "
+    },
+    {
+        "case_id": "PMID_39134968_Case8",
+        "age": "13 years",
+        "gender": "Male",
+        "clinical_features": [
+            "a cleft lip was present on the right side",
+            "splitting of both hands and feet was present",
+            "peripheral giant cell granuloma (PGCG) in the mandibular anterior region"
+        ],
+        "diagnosis": "Orofaciodigital syndrome "
+    },
+    {
+        "case_id": "PMID_37448313_Case9",
+        "clinical_features": [
+            "cleft palate",
+            "congenital heart disease",
+            "intellectual disability",
+            "café-au-lait spots who had a deletion of chromosome 15q14"
+        ],
+        "diagnosis": "BRENS (biliary, renal, neurological, skeletal) syndrome "
+    },
+    {
+        "case_id": "PMID_38706003_Case10",
+        "age": "Newborn",
+        "gender": "Female",
+        "clinical_features": [
+            "fusion of the lower extremities",
+            "a single upper limb",
+            "ambiguous genitalia",
+            "imperforate anus",
+            "a cleft lip"
+        ],
+        "diagnosis": "Raine syndrome "
+    },
+    {
+        "case_id": "PMID_38934763_Case11",
+        "age": "36 weeks",
+        "gender": "Male",
+        "clinical_features": [
+            "congenital maxillomandibular synechia",
+            "ectrodactyly",
+            "ankyloglossia superior syndrome",
+            "a midline palatal cleft",
+            "hypoplastic jaws",
+            "persistent metopic suture",
+            "a bony fusion at the midline"
+        ],
+        "diagnosis": "Hardikar syndrome "
+    },
+    {
+        "case_id": "PMID_38702430_Case12",
+        "clinical_features": [
+            "a skeletal ciliopathy",
+            "manifesting digital anomalies (polydactyly, syndactyly)",
+            "orofacial cleft",
+            "short ribs and cardiac defects"
+        ],
+        "diagnosis": "Hardikar syndrome "
+    },
+    {
+        "case_id": "PMID_38520674_Case13",
+        "clinical_features": [
+            "hydrops fetalis",
+            "large cystic hygromas",
+            "bilateral talipes",
+            "fetal akinesia"
+        ],
+        "diagnosis": "Van der Woude syndrome "
+    },
+    {
+        "case_id": "PMID_38135897_Case14",
+        "clinical_features": [
+            "hexadactyly",
+            "pituitary stalk interruption",
+            "hepatopathy",
+            "nephropathy",
+            "bilateral lip-palate cleft"
+        ],
+        "diagnosis": "Hartsfield syndrome "
+    },
+    {
+        "case_id": "PMID_38789278_Case15",
+        "clinical_features": [
+            "bilateral cleft lip and palate",
+            "oligohydramnios"
+        ],
+        "diagnosis": "Baker-Gordon syndrome "
+    },
+    {
+        "case_id": "PMID_38163266_Case16",
+        "age": "fetus",
+        "clinical_features": [
+            "multisuture craniosynostosis with protrusion of the brain parenchyma through fontanelles and cranial lacunae",
+            "marked periventricular gliosis with regions of infarction",
+            "hemorrhage",
+            "cavitation with global periventricular leukomalacia",
+            "numerous dystrophic calcifications"
+        ],
+        "diagnosis": "Branchiooculofacial syndrome "
+    },
+    {
+        "case_id": "PMID_38777622_Case17",
+        "age": "fetus",
+        "gender": "Female",
+        "clinical_features": [
+            "increased nuchal translucency",
+            "nasal bone hypoplasia",
+            "suspected cleft palate",
+            "abnormal outflow tract of the heart"
+        ],
+        "diagnosis": "Acro-dermato-ungual-lacrimal-tooth (ADULT) syndrome "
+    },
+    {
+        "case_id": "PMID_39702863_Case18",
+        "age": "fetus",
+        "clinical_features": [
+            "right-sided cleft lip and palate",
+            "an omphalocele with intestines",
+            "a diaphragmatic hernia with the stomach in the left thoracic cavity",
+            "displacement of the heart to the right"
+        ],
+        "diagnosis": "Gordon syndrome "
+    },
+    {
+        "case_id": "PMID_38920016_Case19",
+        "clinical_features": [
+            "bilateral sinuses of the lower lip",
+            "syndactyly of the hands",
+            "clubfeet",
+            "genitourinary abnormalities",
+            "cardiovascular anomalies"
+        ],
+        "diagnosis": "SAMS syndrome "
+    },
+    {
+        "case_id": "PMID_38013637_Case20",
+        "age": "fetus",
+        "clinical_features": [
+            "bilateral upper and lower extremity ectrodactyly",
+            "semilobar holoprosencephaly",
+            "midface hypoplasia",
+            "cleft lip and palate"
+        ],
+        "diagnosis": "Goldenhar syndrome"
+    },
+    {
+        "case_id": "PMID_37930470_Case21",
+        "age": "newborn",
+        "clinical_features": [
+            "dysmorphic facial appearance",
+            "severe hypotonia",
+            "poor feeding",
+            "gastroesophageal reflux",
+            "inability to eat and breathe"
+        ],
+        "diagnosis": "Opitz G/BBB syndrome "
+    },
+    {
+        "case_id": "PMID_37932997_Case22",
+        "age": "fetus",
+        "clinical_features": [
+            "microcleft lip",
+            "high arched palate",
+            "curved upper lip",
+            "low ear position",
+            "ocular hypertelorism"
+        ],
+        "diagnosis": "EEC syndrome-type 3 "
+    },
+    {
+        "case_id": "PMID_37920856_Case23",
+        "clinical_features": [
+            "chronic tearing",
+            "congenital atresia",
+            "obstruction of the lacrimal ducts",
+            "mild eyelid fusion",
+            "abnormal development of the fifth finger (a stiff fifth finger with camptodactyly that was shortened in length)"
+        ],
+        "diagnosis": "未提供诊断 "
+    },
+    {
+        "case_id": "PMID_37587573_Case24",
+        "age": "fetus",
+        "clinical_features": [
+            "clubfoot",
+            "camptodactyly",
+            "micrognathia",
+            "cleft palate"
+        ],
+        "diagnosis": "未提供诊断 "
+    },
+    {
+        "case_id": "PMID_37787217_Case25",
+        "age": "17 month",
+        "gender": "Male",
+        "clinical_features": [
+            "cleft in the mandible",
+            "dysmorphic facial features with low set ear",
+            "pointed nose",
+            "prominent nasal bridge",
+            "retrognathia",
+            "hypoplastic rounded shoulder with internally rotated elbow"
+        ],
+        "diagnosis": "未提供诊断 "
+    },
+    {
+        "case_id": "PMID_37448161_Case26",
+        "clinical_features": [
+            "bilateral cleft lip and palate",
+            "bilateral transverse facial cleft"
+        ],
+        "diagnosis": "未提供诊断 "
+    },
+    {
+        "case_id": "PMID_37250678_Case27",
+        "age": "4 years",
+        "clinical_features": [
+            "hypertelorism",
+            "cleft lip and palate",
+            "hypospadias"
+        ],
+        "diagnosis": "未提供诊断 "
+    },
+    {
+        "case_id": "PMID_37182847_Case28",
+        "age": "newborn",
+        "clinical_features": [
+            "ectrodactyly",
+            "tetralogy of Fallot",
+            "esophageal atresia",
+            "hypospadias"
+        ],
+        "diagnosis": "未提供诊断 "
+    }
+]
